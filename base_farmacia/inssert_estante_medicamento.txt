@@ -1,62 +1,62 @@
 ---- estante 1 
-insert into estante_medicamentos values (1,6,'Cubiculo FM-6-D');
-insert into estante_medicamentos values (1,7,'Cubiculo FM-7-D');
-insert into estante_medicamentos values (1,8,'Cubiculo FM-8-D');
-insert into estante_medicamentos values (1,9,'Cubiculo FM-9-D');
-insert into estante_medicamentos values (1,10,'Cubiculo FM-10-D');
-insert into estante_medicamentos values (1,11,'Cubiculo FM-11-D');
-insert into estante_medicamentos values (1,12,'Cubiculo FM-12-D');
-insert into estante_medicamentos values (1,13,'Cubiculo FM-13-D');
-insert into estante_medicamentos values (1,14,'Cubiculo FM-14-D');
-insert into estante_medicamentos values (1,15,'Cubiculo FM-15-D');
+insert into estante_medicamento values (1,6,'Cubiculo FM-6-D');
+insert into estante_medicamento values (1,7,'Cubiculo FM-7-D');
+insert into estante_medicamento values (1,8,'Cubiculo FM-8-D');
+insert into estante_medicamento values (1,9,'Cubiculo FM-9-D');
+insert into estante_medicamento values (1,10,'Cubiculo FM-10-D');
+insert into estante_medicamento values (1,11,'Cubiculo FM-11-D');
+insert into estante_medicamento values (1,12,'Cubiculo FM-12-D');
+insert into estante_medicamento values (1,13,'Cubiculo FM-13-D');
+insert into estante_medicamento values (1,14,'Cubiculo FM-14-D');
+insert into estante_medicamento values (1,15,'Cubiculo FM-15-D');
 
 --- estante 2 
 
-insert into estante_medicamentos values (2,16,'Cubiculo FM-16-D');
-insert into estante_medicamentos values (2,17,'Cubiculo FM-17-D');
-insert into estante_medicamentos values (2,18,'Cubiculo FM-18-D');
-insert into estante_medicamentos values (2,19,'Cubiculo FM-19-D');
-insert into estante_medicamentos values (2,20,'Cubiculo FM-20-D');
-insert into estante_medicamentos values (2,21,'Cubiculo FM-21-D');
-insert into estante_medicamentos values (2,22,'Cubiculo FM-22-D');
-insert into estante_medicamentos values (2,23,'Cubiculo FM-23-D');
-insert into estante_medicamentos values (2,24,'Cubiculo FM-24-D');
-insert into estante_medicamentos values (2,25,'Cubiculo FM-25-D');
+insert into estante_medicamento values (2,16,'Cubiculo FM-16-D');
+insert into estante_medicamento values (2,17,'Cubiculo FM-17-D');
+insert into estante_medicamento values (2,18,'Cubiculo FM-18-D');
+insert into estante_medicamento values (2,19,'Cubiculo FM-19-D');
+insert into estante_medicamento values (2,20,'Cubiculo FM-20-D');
+insert into estante_medicamento values (2,21,'Cubiculo FM-21-D');
+insert into estante_medicamento values (2,22,'Cubiculo FM-22-D');
+insert into estante_medicamento values (2,23,'Cubiculo FM-23-D');
+insert into estante_medicamento values (2,24,'Cubiculo FM-24-D');
+insert into estante_medicamento values (2,25,'Cubiculo FM-25-D');
 
 ----- estante 3
-insert into estante_medicamentos values (3,26,'Cubiculo FM-26-D');
-insert into estante_medicamentos values (3,27,'Cubiculo FM-27-D');
-insert into estante_medicamentos values (3,28,'Cubiculo FM-28-D');
-insert into estante_medicamentos values (3,29,'Cubiculo FM-29-D');
-insert into estante_medicamentos values (3,30,'Cubiculo FM-30-D');
-insert into estante_medicamentos values (3,31,'Cubiculo FM-31-D');
-insert into estante_medicamentos values (3,32,'Cubiculo FM-32-D');
-insert into estante_medicamentos values (3,33,'Cubiculo FM-33-D');
-insert into estante_medicamentos values (3,34,'Cubiculo FM-34-D');
-insert into estante_medicamentos values (3,35,'Cubiculo FM-35-D');
+insert into estante_medicamento values (3,26,'Cubiculo FM-26-D');
+insert into estante_medicamento values (3,27,'Cubiculo FM-27-D');
+insert into estante_medicamento values (3,28,'Cubiculo FM-28-D');
+insert into estante_medicamento values (3,29,'Cubiculo FM-29-D');
+insert into estante_medicamento values (3,30,'Cubiculo FM-30-D');
+insert into estante_medicamento values (3,31,'Cubiculo FM-31-D');
+insert into estante_medicamento values (3,32,'Cubiculo FM-32-D');
+insert into estante_medicamento values (3,33,'Cubiculo FM-33-D');
+insert into estante_medicamento values (3,34,'Cubiculo FM-34-D');
+insert into estante_medicamento values (3,35,'Cubiculo FM-35-D');
 
 
 ---estante 4
 
-insert into estante_medicamentos values (4,36,'Cubiculo FM-36-D');
-insert into estante_medicamentos values (4,37,'Cubiculo FM-37-D');
-insert into estante_medicamentos values (4,38,'Cubiculo FM-38-D');
-insert into estante_medicamentos values (4,39,'Cubiculo FM-39-D');
-insert into estante_medicamentos values (4,40,'Cubiculo FM-40-D');
-insert into estante_medicamentos values (4,41,'Cubiculo FM-41-D');
-insert into estante_medicamentos values (4,42,'Cubiculo FM-42-D');
-insert into estante_medicamentos values (4,43,'Cubiculo FM-43-D');
-insert into estante_medicamentos values (4,44,'Cubiculo FM-44-D');
-insert into estante_medicamentos values (4,45,'Cubiculo FM-45-D');
-insert into estante_medicamentos values (4,46,'Cubiculo FM-46-D');
-insert into estante_medicamentos values (4,47,'Cubiculo FM-47-D');
-insert into estante_medicamentos values (4,48,'Cubiculo FM-48-D');
-insert into estante_medicamentos values (4,49,'Cubiculo FM-49-D');
-insert into estante_medicamentos values (4,50,'Cubiculo FM-50-D');
-insert into estante_medicamentos values (4,51,'Cubiculo FM-51-D');
-insert into estante_medicamentos values (4,52,'Cubiculo FM-52-D');
-insert into estante_medicamentos values (4,53,'Cubiculo FM-53-D');
-insert into estante_medicamentos values (4,54,'Cubiculo FM-54-D');
+insert into estante_medicamento values (4,36,'Cubiculo FM-36-D');
+insert into estante_medicamento values (4,37,'Cubiculo FM-37-D');
+insert into estante_medicamento values (4,38,'Cubiculo FM-38-D');
+insert into estante_medicamento values (4,39,'Cubiculo FM-39-D');
+insert into estante_medicamento values (4,40,'Cubiculo FM-40-D');
+insert into estante_medicamento values (4,41,'Cubiculo FM-41-D');
+insert into estante_medicamento values (4,42,'Cubiculo FM-42-D');
+insert into estante_medicamento values (4,43,'Cubiculo FM-43-D');
+insert into estante_medicamento values (4,44,'Cubiculo FM-44-D');
+insert into estante_medicamento values (4,45,'Cubiculo FM-45-D');
+insert into estante_medicamento values (4,46,'Cubiculo FM-46-D');
+insert into estante_medicamento values (4,47,'Cubiculo FM-47-D');
+insert into estante_medicamento values (4,48,'Cubiculo FM-48-D');
+insert into estante_medicamento values (4,49,'Cubiculo FM-49-D');
+insert into estante_medicamento values (4,50,'Cubiculo FM-50-D');
+insert into estante_medicamento values (4,51,'Cubiculo FM-51-D');
+insert into estante_medicamento values (4,52,'Cubiculo FM-52-D');
+insert into estante_medicamento values (4,53,'Cubiculo FM-53-D');
+insert into estante_medicamento values (4,54,'Cubiculo FM-54-D');
 
 --- estante 5
 
